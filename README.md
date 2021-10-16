@@ -8,9 +8,14 @@ Theoretical - pahdb-complete-theoretical-v3.20_TsTF3p.ascii
 
 After processing, SMILES format of molecules can be found at :  
 
-Experimental - ExperimentalSMI.smi  
-Theoretical - TheoreticalSMI.smi (All molecules)  
-              TheoreticalSMI_Pruned.smi (Only molecules that could be processed)  
+Experimental -  
+
+ExperimentalSMI.smi  
+  
+Theoretical -  
+  
+TheoreticalSMI.smi (All molecules)  
+TheoreticalSMI_Pruned.smi (Only molecules that could be processed)  
   
 All pkl files have preprocessed data  
   
