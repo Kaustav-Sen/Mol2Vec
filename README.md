@@ -18,6 +18,8 @@ After processing, SMILES format of molecules can be found at :
   - TheoreticalSMI_Pruned.smi (Only molecules that could be processed)  
   
 All pkl files have preprocessed data  
+
+Data table - "Theoretical Database.csv"
   
 Preprocessing code file - Morgan Fingerprinting.ipynb  
   
