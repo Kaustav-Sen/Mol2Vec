@@ -17,7 +17,7 @@ After processing, SMILES format of molecules can be found at :
   - TheoreticalSMI.smi (All molecules)  
   - TheoreticalSMI_Pruned.smi (Only molecules that could be processed)  
   
-All pkl files have preprocessed data  
+All .pkl files have preprocessed data  
 
 Data table - "Theoretical Database.csv"
   
